@@ -162,5 +162,6 @@ cd pphuman
 
 ## 四.web支持,前后端测试
 在浏览器测试 http://172.22.8.244:9991/  (运行服务ip) 网页测试
-
-![](images\20230223071310.png)
+<div width="1000" align="center">
+  <img src="images/20230223071310.png"/>
+</div>
